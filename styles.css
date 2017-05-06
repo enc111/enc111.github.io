@@ -94,7 +94,7 @@ li span:first-child {
   visibility: hidden;
   height: 0;
 }
-@media only screen and (min-width: 950px) and (max-width: 1920px) {
+@media only screen and (min-width: 1000px) and (max-width: 1920px) {
   html {
     width: 100%;
   }
@@ -129,7 +129,7 @@ li span:first-child {
     font-size: 21px;
   }
 }
-@media only screen and (min-width: 650px) and (max-width: 949px) {
+@media only screen and (min-width: 800px) and (max-width: 949px) {
   html {
     width: 100%;
   }
